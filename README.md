@@ -1,15 +1,15 @@
 一、首页
  ![image](https://github.com/Tony-Fun/LYTBuy
-/Img/Home1.png)
+/raw/master/Img/Home1.png)
  ![image](https://github.com/Tony-Fun/LYTBuy
-/Img/Home2.png)
+/raw/master/Img/Home2.png)
 二、商家
  ![image](https://github.com/Tony-Fun/LYTBuy
-/Img/Shop.png)
+/raw/master/Img/Shop.png)
 三、我的
  ![image](https://github.com/Tony-Fun/LYTBuy
-/Img/Mine.png)
+/raw/master/Img/Mine.png)
 四、更多
  ![image](https://github.com/Tony-Fun/LYTBuy
-/Img/More.png)
+/raw/master/Img/More.png)
 
